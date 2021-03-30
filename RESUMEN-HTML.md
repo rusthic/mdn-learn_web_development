@@ -75,10 +75,10 @@ Se utilizan para encerrar párrafos de texto.
 
 -   Listas desordenadas: Orden de los elementos no relevante. `<ul>` _unordered list_
 -   Listas ordenadas: Orden relevante. `<ol>` _ordered list_
-    Cada elemento de la lista se coloca dentro de un elemento `<li>` _list item_.
+-   Cada elemento de la lista se coloca dentro de un elemento `<li>` _list item_.
 
 ```html
-<p>En Peronia, somos una comunidad de</p>
+<p>En Peronia, somos una comunidad de:</p>
 
 <ul>
     <li>Ladrones</li>
