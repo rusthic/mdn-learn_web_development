@@ -1,6 +1,7 @@
 # Resumen HTML - Structuring the WEB
 
 HTML element:
+
 ![](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started/grumpy-cat-small.png)
 
 ### Adding CSS:
