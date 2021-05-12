@@ -87,11 +87,9 @@ Inline quotations
 
 ```html
 <addres>
-    <p>
-        ...
-        <li>...</li>
-    </p></addres
->
+    <p>...</p>
+    <li>...</li>
+</addres>
 ```
 
 ### Times and dates
